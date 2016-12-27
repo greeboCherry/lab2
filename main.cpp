@@ -5,7 +5,7 @@
 
 int gcd (int a, int b);
 
-struct fraction
+struct fraction //pozdrawiam Rixa
 {
 	int nominator;
 	int denominator;
