@@ -5,7 +5,7 @@
 
 int gcd (int a, int b);
 
-struct fraction
+struct fraction //again
 {
 	int nominator;
 	int denominator;
